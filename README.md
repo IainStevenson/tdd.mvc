@@ -21,4 +21,9 @@
 * Repoen solution from root folder
 * Save and push back to repo.
 
-# TDD routeine
+# TDD routine
+
+Installed OpenCover from GitHub
+
+
+
