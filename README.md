@@ -23,7 +23,10 @@
 
 # TDD routine
 
-Installed OpenCover from GitHub
+* Installed OpenCover from GitHub
+* Added OpenCover.Usage.pdf to solution.
+* Added NUnit test project. tdd.mvc.tests
+* Ran units tests to check installation. (1) Green.
 
 
 

@@ -11,8 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		LICENSE = LICENSE
+		OpenCover.Usage.pdf = OpenCover.Usage.pdf
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tdd.mvc.tests", "src\tdd.mvc.tests\tdd.mvc.tests.csproj", "{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,12 +27,17 @@ Global
 		{235F8E98-9C84-45FB-A384-0394C6B4D337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{235F8E98-9C84-45FB-A384-0394C6B4D337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{235F8E98-9C84-45FB-A384-0394C6B4D337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{235F8E98-9C84-45FB-A384-0394C6B4D337} = {5F53FF66-DB63-481B-A536-8E4A63E5E380}
+		{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0} = {5F53FF66-DB63-481B-A536-8E4A63E5E380}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75BCEBF8-78F3-4610-803F-4110B49D6251}
