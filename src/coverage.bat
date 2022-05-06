@@ -1,4 +1,4 @@
-set current_dir=D:\Users\Iain.Stevenson\source\repos\tdd.mvc\src
+set current_dir=%CD%
 set VSTest="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VSTest.Console.exe"
 set NUGETFolder=C:\Users\Iain.Stevenson\.nuget\packages
  
