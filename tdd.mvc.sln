@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tdd.mvc", "src\tdd.mvc\tdd.mvc.csproj", "{235F8E98-9C84-45FB-A384-0394C6B4D337}"
 EndProject
@@ -10,12 +10,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79A82F65-9642-48A9-9338-82764C9CBB15}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		coverage.bat = coverage.bat
 		LICENSE = LICENSE
 		OpenCover.Usage.pdf = OpenCover.Usage.pdf
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tdd.mvc.tests", "src\tdd.mvc.tests\tdd.mvc.tests.csproj", "{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tdd.mvc.tests", "src\tdd.mvc.tests\tdd.mvc.tests.csproj", "{35C0454B-DFD6-4A0A-83B3-6DEEE75BE8B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
