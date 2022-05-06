@@ -14,3 +14,5 @@ dotnet build tdd.mvc.sln
 
 
 %report% -reports:%coverfile% -targetdir:%coverreport%
+
+%coverreport%\index.html

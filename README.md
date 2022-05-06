@@ -31,10 +31,12 @@ The source code here was created using the following method.
 * Added NUnit test project. tdd.mvc.tests
 * Ran units tests to check installation. (1) Green.
 
+# To get it working
 
+* Clone this repo
+* Start in VS 2019 or 2022
+* Open up a developer powershell terminal in VS IDE
+* Execute .\coverage.bat which will build and run the solution /tests and coverage analysis
+* \CoverageReport\index.html will in a browser when complete.
 
-# Install OpenCover
-
-
-https://github.com/OpenCover/opencover/releases
 
